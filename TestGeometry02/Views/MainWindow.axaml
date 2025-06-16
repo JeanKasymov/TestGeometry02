@@ -8,33 +8,50 @@
         x:DataType="vm:MainWindowViewModel"
         Icon="/Assets/avalonia-logo.ico"
         Title="TestGeometry02">
-
     <Design.DataContext>
-        <!-- This only sets the DataContext for the previewer in an IDE,
-             to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
         <vm:MainWindowViewModel/>
     </Design.DataContext>
-
-	<DockPanel>
-		<StackPanel
-			DockPanel.Dock ="Left">
-			<Button
-				Content="Create"
-				Command="{Binding CreateGeometry}"/>
-			<TextBox
-				Text="{Binding Size}"/>
+	<Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition 
+				Height="Auto"/>
+			<RowDefinition 
+				Height="*"/>
+		</Grid.RowDefinitions>
+		<!-- Панель управления -->
+		<StackPanel 
+			Orientation="Horizontal" 
+			Grid.Row="0" 
+			Margin="10">
+			<Button 
+				Content="Add Circle" 
+				Command="{Binding AddShape}" 
+				CommandParameter="Circle"
+				Margin="5" 
+				Padding="10"/>
+			<Button 
+				Content="Add Rectangle" 
+				Command="{Binding AddShape}" 
+				CommandParameter="Rectangle"
+				Margin="5" 
+				Padding="10"/>
+			<Button 
+				Content="Add Triangle" 
+				Command="{Binding AddShape}" 
+				CommandParameter="Triangle"
+				Margin="5" 
+				Padding="10"/>
 		</StackPanel>
-
-		<StackPanel
-			DockPanel.Dock ="Right">
-			<Path
-				Fill="LightBlue"
-				Data="{Binding Geom}"/>
-		</StackPanel>
-		<TextBlock 
-			DockPanel.Dock ="Bottom"
-			Text="{Binding Greeting}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-		
-	</DockPanel>
-
+		<!-- Canvas для отрисовки фигур -->
+		<ItemsControl 
+			Grid.Row="1" 
+			ItemsSource="{Binding VisualShapes}">
+			<ItemsControl.ItemsPanel>
+				<ItemsPanelTemplate>
+					<Canvas 
+						Background="#EEE"/>
+				</ItemsPanelTemplate>
+			</ItemsControl.ItemsPanel>
+		</ItemsControl>
+	</Grid>
 </Window>

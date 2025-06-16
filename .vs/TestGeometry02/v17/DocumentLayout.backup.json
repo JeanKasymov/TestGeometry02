@@ -7,15 +7,46 @@
       "RelativeMoniker": "D:0:0:{FECD9B36-7381-4E11-AB24-E99DD0493A07}|TestGeometry02\\TestGeometry02.csproj|solutionrelative:testgeometry02\\views\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FECD9B36-7381-4E11-AB24-E99DD0493A07}|TestGeometry02\\TestGeometry02.csproj|c:\\users\\zh.kasymov\\source\\repos\\testgeometry02\\testgeometry02\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECD9B36-7381-4E11-AB24-E99DD0493A07}|TestGeometry02\\TestGeometry02.csproj|solutionrelative:testgeometry02\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECD9B36-7381-4E11-AB24-E99DD0493A07}|TestGeometry02\\TestGeometry02.csproj|c:\\users\\zh.kasymov\\source\\repos\\testgeometry02\\testgeometry02\\models\\shapeelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECD9B36-7381-4E11-AB24-E99DD0493A07}|TestGeometry02\\TestGeometry02.csproj|solutionrelative:testgeometry02\\models\\shapeelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FECD9B36-7381-4E11-AB24-E99DD0493A07}|TestGeometry02\\TestGeometry02.csproj|c:\\users\\zh.kasymov\\source\\repos\\testgeometry02\\testgeometry02\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FECD9B36-7381-4E11-AB24-E99DD0493A07}|TestGeometry02\\TestGeometry02.csproj|solutionrelative:testgeometry02\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECD9B36-7381-4E11-AB24-E99DD0493A07}|TestGeometry02\\TestGeometry02.csproj|c:\\users\\zh.kasymov\\source\\repos\\testgeometry02\\testgeometry02\\models\\circleelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECD9B36-7381-4E11-AB24-E99DD0493A07}|TestGeometry02\\TestGeometry02.csproj|solutionrelative:testgeometry02\\models\\circleelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECD9B36-7381-4E11-AB24-E99DD0493A07}|TestGeometry02\\TestGeometry02.csproj|c:\\users\\zh.kasymov\\source\\repos\\testgeometry02\\testgeometry02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECD9B36-7381-4E11-AB24-E99DD0493A07}|TestGeometry02\\TestGeometry02.csproj|solutionrelative:testgeometry02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FECD9B36-7381-4E11-AB24-E99DD0493A07}|TestGeometry02\\TestGeometry02.csproj|c:\\users\\zh.kasymov\\source\\repos\\testgeometry02\\testgeometry02\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FECD9B36-7381-4E11-AB24-E99DD0493A07}|TestGeometry02\\TestGeometry02.csproj|solutionrelative:testgeometry02\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FECD9B36-7381-4E11-AB24-E99DD0493A07}|TestGeometry02\\TestGeometry02.csproj|c:\\users\\zh.kasymov\\source\\repos\\testgeometry02\\testgeometry02\\viewlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECD9B36-7381-4E11-AB24-E99DD0493A07}|TestGeometry02\\TestGeometry02.csproj|solutionrelative:testgeometry02\\viewlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECD9B36-7381-4E11-AB24-E99DD0493A07}|TestGeometry02\\TestGeometry02.csproj|c:\\users\\zh.kasymov\\source\\repos\\testgeometry02\\testgeometry02\\models\\rectangleelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECD9B36-7381-4E11-AB24-E99DD0493A07}|TestGeometry02\\TestGeometry02.csproj|solutionrelative:testgeometry02\\models\\rectangleelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FECD9B36-7381-4E11-AB24-E99DD0493A07}|TestGeometry02\\TestGeometry02.csproj|c:\\users\\zh.kasymov\\source\\repos\\testgeometry02\\testgeometry02\\models\\triangleelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FECD9B36-7381-4E11-AB24-E99DD0493A07}|TestGeometry02\\TestGeometry02.csproj|solutionrelative:testgeometry02\\models\\triangleelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zh.kasymov\\AppData\\Local\\Temp\\.vsdbgsrc\\cd4e9790a6079bb933ce359f927e691941d96186e887d51eede58bd6e0082f83\\Dispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zh.kasymov\\AppData\\Local\\Temp\\.vsdbgsrc\\69fc464ca8cb92b19c334c8eb11663e49205ddc9aed05cc5e62bc515630a34b8\\RxApp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,33 +56,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ViewModelBase.cs",
-              "DocumentMoniker": "C:\\Users\\zh.kasymov\\source\\repos\\TestGeometry02\\TestGeometry02\\ViewModels\\ViewModelBase.cs",
-              "RelativeDocumentMoniker": "TestGeometry02\\ViewModels\\ViewModelBase.cs",
-              "ToolTip": "C:\\Users\\zh.kasymov\\source\\repos\\TestGeometry02\\TestGeometry02\\ViewModels\\ViewModelBase.cs",
-              "RelativeToolTip": "TestGeometry02\\ViewModels\\ViewModelBase.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zh.kasymov\\source\\repos\\TestGeometry02\\TestGeometry02\\Program.cs",
+              "RelativeDocumentMoniker": "TestGeometry02\\Program.cs",
+              "ToolTip": "C:\\Users\\zh.kasymov\\source\\repos\\TestGeometry02\\TestGeometry02\\Program.cs",
+              "RelativeToolTip": "TestGeometry02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T14:27:03.81Z",
+              "WhenOpened": "2025-06-16T11:03:56.82Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dispatcher.cs",
-              "DocumentMoniker": "C:\\Users\\zh.kasymov\\AppData\\Local\\Temp\\.vsdbgsrc\\cd4e9790a6079bb933ce359f927e691941d96186e887d51eede58bd6e0082f83\\Dispatcher.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\cd4e9790a6079bb933ce359f927e691941d96186e887d51eede58bd6e0082f83\\Dispatcher.cs",
-              "ToolTip": "C:\\Users\\zh.kasymov\\AppData\\Local\\Temp\\.vsdbgsrc\\cd4e9790a6079bb933ce359f927e691941d96186e887d51eede58bd6e0082f83\\Dispatcher.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\cd4e9790a6079bb933ce359f927e691941d96186e887d51eede58bd6e0082f83\\Dispatcher.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
-              "ViewState": "AgIAAM8AAAAAAAAAAAAnwN8AAAAXAAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T13:59:30.479Z",
-              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
             },
             {
               "$type": "Document",
@@ -61,23 +79,140 @@
               "RelativeDocumentMoniker": "TestGeometry02\\Views\\MainWindow.axaml",
               "ToolTip": "C:\\Users\\zh.kasymov\\source\\repos\\TestGeometry02\\TestGeometry02\\Views\\MainWindow.axaml",
               "RelativeToolTip": "TestGeometry02\\Views\\MainWindow.axaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-10T12:03:12.484Z",
+              "WhenOpened": "2025-06-16T07:48:58.114Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\zh.kasymov\\source\\repos\\TestGeometry02\\TestGeometry02\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "TestGeometry02\\ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\zh.kasymov\\source\\repos\\TestGeometry02\\TestGeometry02\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "TestGeometry02\\ViewModels\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T14:27:03.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainWindowViewModel.cs",
               "DocumentMoniker": "C:\\Users\\zh.kasymov\\source\\repos\\TestGeometry02\\TestGeometry02\\ViewModels\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "TestGeometry02\\ViewModels\\MainWindowViewModel.cs",
               "ToolTip": "C:\\Users\\zh.kasymov\\source\\repos\\TestGeometry02\\TestGeometry02\\ViewModels\\MainWindowViewModel.cs",
               "RelativeToolTip": "TestGeometry02\\ViewModels\\MainWindowViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-10T12:03:12.035Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShapeElement.cs",
+              "DocumentMoniker": "C:\\Users\\zh.kasymov\\source\\repos\\TestGeometry02\\TestGeometry02\\Models\\ShapeElement.cs",
+              "RelativeDocumentMoniker": "TestGeometry02\\Models\\ShapeElement.cs",
+              "ToolTip": "C:\\Users\\zh.kasymov\\source\\repos\\TestGeometry02\\TestGeometry02\\Models\\ShapeElement.cs",
+              "RelativeToolTip": "TestGeometry02\\Models\\ShapeElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:52:40.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CircleElement.cs",
+              "DocumentMoniker": "C:\\Users\\zh.kasymov\\source\\repos\\TestGeometry02\\TestGeometry02\\Models\\CircleElement.cs",
+              "RelativeDocumentMoniker": "TestGeometry02\\Models\\CircleElement.cs",
+              "ToolTip": "C:\\Users\\zh.kasymov\\source\\repos\\TestGeometry02\\TestGeometry02\\Models\\CircleElement.cs",
+              "RelativeToolTip": "TestGeometry02\\Models\\CircleElement.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:54:52.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\zh.kasymov\\source\\repos\\TestGeometry02\\TestGeometry02\\Views\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "TestGeometry02\\Views\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\zh.kasymov\\source\\repos\\TestGeometry02\\TestGeometry02\\Views\\MainWindow.axaml.cs",
+              "RelativeToolTip": "TestGeometry02\\Views\\MainWindow.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:51:06.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewLocator.cs",
+              "DocumentMoniker": "C:\\Users\\zh.kasymov\\source\\repos\\TestGeometry02\\TestGeometry02\\ViewLocator.cs",
+              "RelativeDocumentMoniker": "TestGeometry02\\ViewLocator.cs",
+              "ToolTip": "C:\\Users\\zh.kasymov\\source\\repos\\TestGeometry02\\TestGeometry02\\ViewLocator.cs",
+              "RelativeToolTip": "TestGeometry02\\ViewLocator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T11:03:58.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RectangleElement.cs",
+              "DocumentMoniker": "C:\\Users\\zh.kasymov\\source\\repos\\TestGeometry02\\TestGeometry02\\Models\\RectangleElement.cs",
+              "RelativeDocumentMoniker": "TestGeometry02\\Models\\RectangleElement.cs",
+              "ToolTip": "C:\\Users\\zh.kasymov\\source\\repos\\TestGeometry02\\TestGeometry02\\Models\\RectangleElement.cs",
+              "RelativeToolTip": "TestGeometry02\\Models\\RectangleElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T07:24:43.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TriangleElement.cs",
+              "DocumentMoniker": "C:\\Users\\zh.kasymov\\source\\repos\\TestGeometry02\\TestGeometry02\\Models\\TriangleElement.cs",
+              "RelativeDocumentMoniker": "TestGeometry02\\Models\\TriangleElement.cs",
+              "ToolTip": "C:\\Users\\zh.kasymov\\source\\repos\\TestGeometry02\\TestGeometry02\\Models\\TriangleElement.cs",
+              "RelativeToolTip": "TestGeometry02\\Models\\TriangleElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T07:27:17.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\zh.kasymov\\AppData\\Local\\Temp\\.vsdbgsrc\\cd4e9790a6079bb933ce359f927e691941d96186e887d51eede58bd6e0082f83\\Dispatcher.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\cd4e9790a6079bb933ce359f927e691941d96186e887d51eede58bd6e0082f83\\Dispatcher.cs",
+              "ToolTip": "C:\\Users\\zh.kasymov\\AppData\\Local\\Temp\\.vsdbgsrc\\cd4e9790a6079bb933ce359f927e691941d96186e887d51eede58bd6e0082f83\\Dispatcher.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\cd4e9790a6079bb933ce359f927e691941d96186e887d51eede58bd6e0082f83\\Dispatcher.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAhwOUAAAADAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T13:59:30.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RxApp.cs",
+              "DocumentMoniker": "C:\\Users\\zh.kasymov\\AppData\\Local\\Temp\\.vsdbgsrc\\69fc464ca8cb92b19c334c8eb11663e49205ddc9aed05cc5e62bc515630a34b8\\RxApp.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\69fc464ca8cb92b19c334c8eb11663e49205ddc9aed05cc5e62bc515630a34b8\\RxApp.cs",
+              "ToolTip": "C:\\Users\\zh.kasymov\\AppData\\Local\\Temp\\.vsdbgsrc\\69fc464ca8cb92b19c334c8eb11663e49205ddc9aed05cc5e62bc515630a34b8\\RxApp.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\69fc464ca8cb92b19c334c8eb11663e49205ddc9aed05cc5e62bc515630a34b8\\RxApp.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAJIAAAAVAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T10:06:46.172Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
             }
           ]
         }

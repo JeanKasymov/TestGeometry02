@@ -70,3 +70,4 @@ C:\Users\zh.kasymov\source\repos\TestGeometry02\TestGeometry02\bin\Debug\net8.0\
 C:\Users\zh.kasymov\source\repos\TestGeometry02\TestGeometry02\bin\Debug\net8.0\ReactiveUI.dll
 C:\Users\zh.kasymov\source\repos\TestGeometry02\TestGeometry02\bin\Debug\net8.0\Splat.dll
 C:\Users\zh.kasymov\source\repos\TestGeometry02\TestGeometry02\bin\Debug\net8.0\System.Reactive.dll
+C:\Users\zh.kasymov\source\repos\TestGeometry02\TestGeometry02\obj\Debug\net8.0\TestGeometry02.sourcelink.json

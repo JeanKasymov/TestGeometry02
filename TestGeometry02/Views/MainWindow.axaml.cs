@@ -1,4 +1,5 @@
 using Avalonia.Controls;
+using TestGeometry02.ViewModels;
 
 namespace TestGeometry02.Views
 {
@@ -7,6 +8,7 @@ namespace TestGeometry02.Views
         public MainWindow()
         {
             InitializeComponent();
+            DataContext = new MainWindowViewModel();
         }
     }
 }
